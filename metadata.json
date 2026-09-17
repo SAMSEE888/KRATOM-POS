@@ -1,0 +1,6 @@
+{
+  "name": "Kratom POS · SAMSEE Professional BI",
+  "description": "ระบบบริหารจัดการหน้าร้าน (POS), เครื่องคำนวณการต้มและผสมเชิงอุตสาหกรรม, สต๊อกแบบ Real-time, BI Analytics ขั้นสูง และบูรณาการ Google Apps Script + Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
